@@ -1,0 +1,10 @@
+title: "Developing-Dev.com"
+description: "A collection of posts and resouces I wish I had as a developing developer!"
+show_downloads: false
+baseurl: ""
+url: "https://developing-dev.com"
+repository: "eseklund/developing-dev.com"
+
+theme: bulma-clean-theme
+plugins:
+- jekyll-remote-theme
